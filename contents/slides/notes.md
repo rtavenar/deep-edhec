@@ -13,4 +13,4 @@
     * Convolution + pooling layers
     * Basics of fine-tuning + Model zoo
 
-+ a dedicated slideshow on the basics of `keras` (**TODO**)
++ a dedicated slideshow on the basics of `keras`
